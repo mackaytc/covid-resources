@@ -1,6 +1,6 @@
 # Guide to Covid-19 Resources
 
-The goal of this file is to keep track of useful covid-related data, studies, etc. The page here offers an overview of basic resources related to covid. There's also subfolders in this repo that has data, code, links to models, etc. 
+The goal of this file is to keep track of useful covid-related data, studies, etc. The page here offers an overview of basic resources related to covid. If you scroll up, you'll also find subfolders with data, code, links to models, etc. 
 
 ## Where Should I Start? 
 
