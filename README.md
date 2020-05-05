@@ -1,6 +1,6 @@
 # Guide to Covid-19 Resources
 
-The goal of this file is to keep track of useful covid-related data, studies, etc.
+The goal of this file is to keep track of useful covid-related data, studies, etc. The page here offers an overview of basic resources related to covid. There's also subfolders in this repo that has data, code, links to models, etc. 
 
 ## Where Should I Start? 
 
@@ -13,7 +13,7 @@ I've included a "highlight reel" of the resources I've found most useful for try
     * The graphs by state organized by states where cases are increasing / decreasing over time are particularly useful
  * ___If you're looking for projections and trying see what experts think the next few months will look like, [538 is tracking the projections from several of the most widely-cited forecasts of the covid pandemic](https://projects.fivethirtyeight.com/covid-forecasts)___
 
-## What if I'm on Twitter?
+## What's on Twitter?
 
 Here's a (very abbreviated) list of epidemiology and public health folks I've found especially helpful to follow:
  * [Trevor Bedford](https://twitter.com/trvrb) is an epidemiologist at the Fred Hutchins Cancer Research Center
@@ -21,3 +21,7 @@ Here's a (very abbreviated) list of epidemiology and public health folks I've fo
  * [Natalie Dean](https://twitter.com/nataliexdean) is a professor of biostats at University of Florida
  
 [Ed Yong](https://twitter.com/edyong209) is science writer at the Atlantic who put togther [a thread of longer-form news articles on covid](https://twitter.com/edyong209/status/1256303440243933184?s=21) that is worth reading through as well.
+
+## What Else is Here? 
+
+The [`widely-cited-studies-and-models`](https://github.com/mackaytc/covid-resources/tree/master/widely-cited-studies-and-models) folder has PDFs copies of some of the most widely cited studies (e.g. the ICL report, etc.) and links to covid-19 forecasts from IHME, UT Austin, MIT, etc.
