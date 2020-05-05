@@ -1,5 +1,7 @@
 # Overview 
 
+This folder includes both data files for things like social distancing polices, etc. as well as links to useful resources including other data sets, API's, etc. listed below. The last section includes a to-do list of sites + data to explore. 
+
 ## File Descriptions
 
  * [`SAHO-dates.csv`](https://github.com/mackaytc/covid-resources/blob/master/data/SAHO-dates.csv) provides a table of dates when states implemented stay at home orders (SAHO) gathered from the NYT. Note that not all states implemented a SAHO. File generated 4.19.2020 -- [link to NYT page here.](www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html)
@@ -14,7 +16,7 @@
 
 ## To-Do List
 
-Stuff that looks interesting but I haven't had time to look at yet: 
+Stuff that looks interesting but I haven't had time to really explore at yet: 
   * [`sars2pack`](https://seandavi.github.io/sars2pack/) is a set of `R`-focused resources for examining covid 
   * [NACO](https://www.naco.org/covid19/topic/resarch-data) offers county-level data on covid cases and policies
   * [COVID-19 Hospitalization Tracking Project](https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project)
