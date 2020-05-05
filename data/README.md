@@ -1,6 +1,6 @@
 # Overview 
 
-This folder includes both data files for things like social distancing polices, etc. as well as links to useful resources including other data sets, API's, etc. listed below. The last section includes a to-do list of sites + data to explore. 
+This folder includes both data files for things like social distancing polices, etc. as well as links to useful resources including other data sets, API's, etc. listed below.
 
 ## File Descriptions
 
@@ -13,12 +13,3 @@ This folder includes both data files for things like social distancing polices, 
  * [Stanford](https://socialdistancing.stanford.edu/) has a crowd-sourced project that collects data on county-level social distancing measures including dates of implementation and links for documentation
    * Their website includes a link to a regularly-updated `.csv` version of their data via Google Sheets
  * [Covid Tracking Project](https://covidtracking.com/data) is the best rapidly-updated source for data on US covid testing
-
-## To-Do List
-
-Stuff that looks interesting but I haven't had time to really explore at yet: 
-  * [`sars2pack`](https://seandavi.github.io/sars2pack/) is a set of `R`-focused resources for examining covid 
-  * [NACO](https://www.naco.org/covid19/topic/resarch-data) offers county-level data on covid cases and policies
-  * [COVID-19 Hospitalization Tracking Project](https://carlsonschool.umn.edu/mili-misrc-covid19-tracking-project)
-  * [gridMET Climatology Data](http://www.climatologylab.org/gridmet.html)
-  * [EpiForecasts](https://epiforecasts.io/) 
