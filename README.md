@@ -38,7 +38,8 @@ If you want a detailed discussion of the many challenges involved in forecasting
 ## What Else is Here? 
 
 Folders included in this repo: 
- * [`widely-cited-studies-and-models`](https://github.com/mackaytc/covid-resources/tree/master/widely-cited-studies-and-models) has PDF copies of some of the most widely cited studies (e.g. the ICL report, etc.) and links to covid-19 forecasts from IHME, UT Austin, MIT, etc.
  * [`data`](https://github.com/mackaytc/covid-resources/tree/master/data) has a range of covid-related data sets, including social distancing policies, ...
+ * [`econ-papers`](https://github.com/mackaytc/covid-resources/tree/master/econ-papers) keeps track of [NBER WP series publications](https://nber.org/wp_covid19.html) related to covid from with a list of relevent abstracts
+ * [`widely-cited-studies-and-models`](https://github.com/mackaytc/covid-resources/tree/master/widely-cited-studies-and-models) has PDF copies of some of the most widely cited studies (e.g. the ICL report, etc.) and links to covid-19 forecasts from IHME, UT Austin, MIT, etc.
 
 
