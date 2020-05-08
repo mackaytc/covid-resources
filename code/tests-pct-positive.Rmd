@@ -1,0 +1,58 @@
+---
+title: "Positive Covid-19 Test Percentages by State"
+author: "Taylor"
+date: "5/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+library(psych)
+library(covid19us)
+library(tidyverse)
+
+```
+
+## Loading Covid Tracking Data 
+
+State cumulative testing data called from [Covid Tracking](https://covidtracking.com) using using ``covid19us`` API wrapper. 
+
+```{r load.packages.data}
+
+states.current <- as_tibble(get_states_current())
+
+head(states.current)
+
+```
+
+## Current Positive Test Percentages
+
+Per [Covid Tracking](https://covidtracking.com/api), we have the following variable definitions: 
+
+ * `positive`: total cumulative positive test results in a given state
+ * `totalTestResults`: calculated value (positive + negative) of total test results
+ 
+ Code below calculates the cumulative positive percentage of total tests by state and prints table sorted in descending order of positive percentage. 
+
+
+```{r calc.pct.positive}
+
+# Subset data + calculate pct.positive = pos. tests / total tests
+
+states.current <- select(states.current, state, positive, total_test_results) %>% 
+  mutate(pct.positive = positive / total_test_results, 
+         pct.positive = round(pct.positive, 3)) %>% 
+  arrange(-pct.positive)
+
+# Summary stats
+
+describe(states.current$pct.positive)
+
+# Table sorted in descending value of positive percentage
+
+print(states.current, n = 56)
+
+```
+
