@@ -1,6 +1,5 @@
 ---
 title: "Positive Covid-19 Test Percentages by State"
-author: "Taylor"
 date: "5/7/2020"
 output: github_document
 ---
@@ -9,7 +8,10 @@ output: github_document
 
 knitr::opts_chunk$set(echo = TRUE)
 
+setwd("C:/Users/macka/Documents/covid-resources/code")
+
 library(psych)
+library(usmap)
 library(tidyverse)
 
 ```
@@ -18,11 +20,32 @@ library(tidyverse)
 
 State cumulative testing data called from [Covid Tracking](https://covidtracking.com).  
 
-```{r load.packages.data, echo = F}
+```{r load.packages.data, include = F}
 
-CT.url <- "https://raw.githubusercontent.com/COVID19Tracking/covid-tracking-data/master/data/states_current.csv"
+CT.url <- "https://covidtracking.com/api/v1/states/current.csv"
 
 states.current <- read_csv(url(CT.url))
+
+states.current <- select(states.current, state, fips, positive, totalTestResults)
+
+# Load 2019 state population data from census
+
+POP.url <- "https://raw.githubusercontent.com/mackaytc/covid-resources/master/data/state-pop-census-2019.csv"
+
+pop <- read_csv(url(POP.url)) 
+
+pop$fips <- fips(pop$NAME)
+
+data <- inner_join(states.current, pop, by = "fips") 
+
+data <- rename(data, 
+               state.name = NAME, 
+               positive.tests = positive, 
+               pop.2019 = POPESTIMATE2019, 
+               total.test.results = totalTestResults) %>% 
+  select(state.name, fips, pop.2019, positive.tests, total.test.results)
+
+rm(CT.url, states.current, POP.url, pop)
 
 ```
 
@@ -33,25 +56,31 @@ Per [Covid Tracking](https://covidtracking.com/api), we have the following varia
  * `positive`: total cumulative positive test results in a given state
  * `totalTestResults`: calculated value (positive + negative) of total test results
  
- Code below calculates the cumulative positive percentage of total tests by state and prints table sorted in descending order of positive percentage. 
+Code below calculates the cumulative positive percentage of total tests by state (``pct.positive``) and the number of tests per capita (``tests.per.capita``) and prints table sorted in ascending order of tests per capita. Data is also saved in ``.csv`` for easier [viewing online](https://github.com/mackaytc/covid-resources/blob/master/code/tests-pct-positive.csv). 
 
 
 ```{r calc.pct.positive}
 
 # Subset data + calculate pct.positive = pos. tests / total tests
 
-states.current <- select(states.current, state, positive, totalTestResults) %>% 
-  mutate(pct.positive = (positive / totalTestResults)*100, 
-         pct.positive = round(pct.positive, 1)) %>% 
-  arrange(-pct.positive)
+data <- data %>% mutate(pct.positive = (positive.tests / total.test.results)*100, 
+                        pct.positive = round(pct.positive, 1), 
+                        tests.per.capita = total.test.results / pop.2019, 
+                        tests.per.capita = round(tests.per.capita, 4)) %>% 
+  arrange(tests.per.capita)
 
-# Summary stats
+# Summary stats for both new measures
 
-describe(states.current$pct.positive)
+describe(data$pct.positive)
+describe(data$tests.per.capita)
 
 # Table sorted in descending value of positive percentage
 
-print(states.current, n = 56)
+print(data)
+
+# Save .csv version of table 
+
+write_csv(data, "tests-pct-positive.csv")
 
 ```
 
