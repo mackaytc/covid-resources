@@ -4,11 +4,12 @@ This folder includes both data files for things like social distancing polices, 
 
 ## File Descriptions
 
- * [`SAHO-dates.csv`](https://github.com/mackaytc/covid-resources/blob/master/data/SAHO-dates.csv) provides a table of dates when states implemented stay at home orders (SAHO) gathered from the NYT. Note that not all states implemented a SAHO. File generated 4.19.2020 -- [link to NYT page here.](www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html)
  * [`Crowdsourced COVID-19 Intervention Data - Stanford Team + Crowdsourced Data.csv`](https://github.com/mackaytc/covid-resources/blob/master/data/Crowdsourced%20COVID-19%20Intervention%20Data%20-%20Stanford%20Team%20%2B%20Crowdsourced%20Data.csv) is a set of county-level social distancing policies
    * See below for more -- data accessed 5.5.2020
  * [`KFF-state-social-dist-policies.csv`](https://github.com/mackaytc/covid-resources/blob/master/data/KFF-state-social-dist-policies.csv) is a set of state-level social distancing policy descriptions provided by [KFF](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/)
    * Table is regularly-updated -- data accessed 5.7.2020
+ * [`SAHO-dates.csv`](https://github.com/mackaytc/covid-resources/blob/master/data/SAHO-dates.csv) provides a table of dates when states implemented stay at home orders (SAHO) gathered from the NYT. Note that not all states implemented a SAHO. File generated 4.19.2020 -- [link to NYT page here.](www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html)
+ * [`state-pop-census-2019.csv`](https://github.com/mackaytc/covid-resources/blob/master/data/state-pop-census-2019.csv) is 2019 annual they population estimates from Census Bureau. Data downloaded from ``tableNST-EST2019-alldata`` from [link here](https://www.census.gov/newsroom/press-kits/2019/national-state-estimates.html)
 
 ## SafeGraph Mobility Data Resources
 

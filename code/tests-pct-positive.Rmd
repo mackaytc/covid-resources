@@ -10,20 +10,19 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 
 library(psych)
-library(covid19us)
 library(tidyverse)
 
 ```
 
 ## Loading Covid Tracking Data 
 
-State cumulative testing data called from [Covid Tracking](https://covidtracking.com) using using ``covid19us`` API wrapper. 
+State cumulative testing data called from [Covid Tracking](https://covidtracking.com).  
 
-```{r load.packages.data}
+```{r load.packages.data, echo = F}
 
-states.current <- as_tibble(get_states_current())
+CT.url <- "https://raw.githubusercontent.com/COVID19Tracking/covid-tracking-data/master/data/states_current.csv"
 
-head(states.current)
+states.current <- read_csv(url(CT.url))
 
 ```
 
@@ -41,9 +40,9 @@ Per [Covid Tracking](https://covidtracking.com/api), we have the following varia
 
 # Subset data + calculate pct.positive = pos. tests / total tests
 
-states.current <- select(states.current, state, positive, total_test_results) %>% 
-  mutate(pct.positive = positive / total_test_results, 
-         pct.positive = round(pct.positive, 3)) %>% 
+states.current <- select(states.current, state, positive, totalTestResults) %>% 
+  mutate(pct.positive = (positive / totalTestResults)*100, 
+         pct.positive = round(pct.positive, 1)) %>% 
   arrange(-pct.positive)
 
 # Summary stats
