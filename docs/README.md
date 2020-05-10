@@ -1,6 +1,6 @@
 # Guide to Covid-19 Resources
 
-The goal of this file is to keep track of useful covid-related data, studies, etc. The page here offers an overview of basic resources related to covid. If you scroll up, you'll also find subfolders with data, code, links to models, etc. 
+The goal of this page is to keep track of useful covid-related data, studies, etc. The page here offers an overview of basic resources related to covid. If you visit the GitHub page, you'll also find subfolders with data, code, links to models, etc. 
 
 ## Where Should I Start? 
 
@@ -35,9 +35,9 @@ What's the point of trying to forecast things when there's so much uncertainty?
 
 If you want a detailed discussion of the many challenges involved in forecasting this pandemic, [538 has a detailed discussion (with lots of cool visuals)](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/). 
 
-## What Else is Here? 
+## What Else on Here? 
 
-Folders included in this repo: 
+Folders included in this repo (click for links): 
  * [`code`](https://github.com/mackaytc/covid-resources/tree/master/code) has a miscellaneous ``R`` scripts the most useful of which pulls Covid Tracking test data and calculates positive test percentages by state
  * [`data`](https://github.com/mackaytc/covid-resources/tree/master/data) has a range of covid-related data sets, including social distancing policies, ...
  * [`econ-papers`](https://github.com/mackaytc/covid-resources/tree/master/econ-papers) keeps track of [NBER WP series publications](https://nber.org/wp_covid19.html) related to covid from with a list of relevent abstracts
