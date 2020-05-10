@@ -1,49 +1,92 @@
-# Guide to Covid-19 Resources
+# Poole
 
-This page offers a brief overview of resources to help you learn more about covid and what the next 6-12 months look like. You can also visit [GitHub](https://github.com/mackaytc/covid-resources), where I've posted some additional data, code, links to models, etc. 
+*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
-## Where Should I Start? 
+-----
 
-Here's a "highlight reel" of the resources I've found most useful for trying to understand the covid-19 pandemic. Definitely start by checking out the following:
- * ___If you want a single source to go to for daily news and updates on covid,  [the Covid Daily News podcast is your best option](https://omny.fm/shows/the-coronavirus-daily-podcast-the-most-important-n)___
-    *  This podcast provides an analytical perspective on covid news, and emphasizes comparisons in outcomes and policy responses across countries. If you're just getting started listening, scroll back in the feed and pick up on topics that are of interest (more recent episodes assume an increasing level of familiarity with the subject matter).
-    * Full disclosure, neither host is a public health expert but that's not really the "niche" they're trying to fill. Instead, they aggregate news from a range of well-vetted sources and give you key takeaways.
- * If you're looking for up-to-date information on the number of cases / fatalities / etc. in the US as a whole and for individual states, ___[this NYT page provides a ton of regularly-updated graphs and statistics](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)___
-    * The graphs by state organized by states where cases are increasing / decreasing over time are particularly helpful
- * ___If you're looking for projections and trying see what experts think the next few months will look like, [538 is tracking the projections from several of the most widely-cited forecasts of the covid pandemic](https://projects.fivethirtyeight.com/covid-forecasts)___
+Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
 
-## Thinking about the Future
+![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
 
-_How many new cases will there be? How many tests will we be performing?_ We'd all love to know the answers to these questions. Coming up with good predictions, however, is incredibly difficult and our best guess answers to them can change dramatically as we get new information. Why is there so much uncertainty?
+See Poole in action with [the demo site](https://demo.getpoole.com).
 
-Forecasting something like a pandemic is incredibly challenging. Gathering data is difficult, the statistics can be complicated, and as [Zeynep Tufekci writes for The Atlantic:](https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/)
+There are currently two official themes built on Poole:
 
-> When an epidemiological model is believed and acted on, it can look like it was false. These models are not snapshots of the future. They always describe a range of possibilities — and those possibilities are highly sensitive to our actions. 
+* [Hyde](https://hyde.getpoole.com)
+* [Lanyon](https://lanyon.getpoole.com)
 
-What's the point of trying to forecast things when there's so much uncertainty?
-
-> The most important function of epidemiological models is as a simulation, a way to see our potential futures ahead of time, and how that interacts with the choices we make today. 
-
-If you want a detailed discussion of the many challenges involved in forecasting this pandemic, [538 has a detailed discussion (with lots of cool visuals)](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/). 
-
-## What Should We Be Doing?
-
-There have been several widely-discussed proposals for how we should think about dealing with the covid pandemic and gradually reopening the economy. If you want a quick summary of these proposals, you can read [German Lopez writing for Vox about them here](https://www.vox.com/2020/4/14/21218074/coronavirus-plans-social-distancing-end-reopen-economy). While each specific plan varies a bit, every plan shares common themes including the importance of _readily-available testing_ and [_contact tracing_](https://www.vox.com/2020/5/4/21242825/coronavirus-covid-19-contact-tracing-jobs-apps).
-
-You can also read the reports themselves here:
- * [A "bipartisan group of experts in economics, public health, technology and ethics" based out of Harvard's Center for Ethics has put out a plan](https://ethics.harvard.edu/covid-19-response)
- * [AEI, a conservative leaning think tank, has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
- * [Center for American Progress, liberal leaning think tank, also has their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
-
-## What's on Twitter?
-
-Here's a (very abbreviated) list of epidemiology and public health folks I've found especially helpful to follow:
- * [Trevor Bedford](https://twitter.com/trvrb) is an epidemiologist at the Fred Hutchins Cancer Research Center
- * [Carl Bergstrom](https://twitter.com/CT_Bergstrom) is a professor of biology at University of Washington
- * [Natalie Dean](https://twitter.com/nataliexdean) is a professor of biostats at University of Florida
- 
-[Ed Yong](https://twitter.com/edyong209) is science writer at the Atlantic who put togther [a thread of longer-form news articles on covid](https://twitter.com/edyong209/status/1256303440243933184?s=21) that is worth reading through as well.
+Individual theme feedback and bug reports should be submitted to the theme's individual repository.
 
 
+## Contents
+
+- [Usage](#usage)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
 
 
+## Usage
+
+### 1. Install dependencies
+
+Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
+
+```bash
+$ gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag
+```
+
+**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
+
+**Need syntax highlighting?** Poole includes support for Pygments or Rouge, so install your gem of choice to make use of the built-in styling. Read more about this [in the Jekyll docs](http://jekyllrb.com/docs/templates/#code_snippet_highlighting).
+
+### 2a. Quick start
+
+To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.
+
+### 2b. Roll your own Jekyll site
+
+Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `assets/` for CSS, JS, etc.).
+
+### 3. Running locally
+
+To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/poole` (or whatever your Jekyll site's root directory is named):
+
+```bash
+$ jekyll serve
+```
+
+Open <http://localhost:4000> in your browser, and voilà.
+
+### 4. Serving it up
+
+If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
+
+1. Fork this repo and switch to the `gh-pages` branch.
+  1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
+  2. If you're not using a custom domain name, **modify the `baseurl` in `_config.yml`** to point to your GitHub Pages URL. Example: for a repo at `github.com/username/poole`, use `http://username.github.io/poole/`. **Be sure to include the trailing slash.**
+3. Done! Head to your GitHub Pages URL or custom domain.
+
+No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
+
+## Development
+
+Poole has two branches, but only one is used for active development.
+
+- `master` for development.  **All pull requests should be to submitted against `master`.**
+- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
+
+CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
+
+## Author
+
+**Mark Otto**
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
+
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
