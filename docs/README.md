@@ -35,9 +35,9 @@ You can read the reports themselves here:
  * [AEI, a conservative-leaning think tank, has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
  * [Center for American Progress, a liberal-leaning think tank, also has their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
  
-There's several useful resources for thinking about what your workplace would need to do to be safer as well (whether it's an office, school, construction site, etc.:
+There's several useful resources for thinking about what your workplace would need to do to be safer as well (whether it's an office, school, construction site, etc.):
  * [Recommendations by workplace](https://www.backtoworksafely.org) from a group of occupational safety experts
- * [A site that's more geared towards local governments](https://covidlocal.org) but also provides useful reopening guidelines and gives you a sense of what we should be looking for from local and state leaders 
+ * [This site is more geared towards local governments](https://covidlocal.org) but provides useful general reopening guidelines and gives you a sense of what we should be looking for from local and state leaders 
 
 ## What's on Twitter?
 
