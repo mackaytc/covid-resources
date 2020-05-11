@@ -28,12 +28,16 @@ If you want a detailed discussion of the many challenges involved in forecasting
 
 ## What Should We Be Doing?
 
-There have been several widely-discussed proposals for how we should think about dealing with the covid pandemic and gradually reopening the economy. If you want a quick summary of these proposals, you can read [German Lopez writing for Vox about them here](https://www.vox.com/2020/4/14/21218074/coronavirus-plans-social-distancing-end-reopen-economy). While each specific plan varies a bit, every plan shares common themes including the importance of _readily-available testing_ and [_contact tracing_](https://www.vox.com/2020/5/4/21242825/coronavirus-covid-19-contact-tracing-jobs-apps).
+There have been several widely-discussed proposals for how we should think about dealing with the covid pandemic and gradually reopening the economy. If you want a quick summary of these proposals, you can read [German Lopez writing for Vox about them here](https://www.vox.com/2020/4/14/21218074/coronavirus-plans-social-distancing-end-reopen-economy). While each specific plan varies a bit, every plan shares common themes including the importance of [_readily-available testing_](https://www.heart.org/en/news/2020/04/02/covid-19-science-why-testing-is-so-important) and [_contact tracing_](https://www.vox.com/2020/5/4/21242825/coronavirus-covid-19-contact-tracing-jobs-apps).
 
-You can also read the reports themselves here:
+You can read the reports themselves here:
  * [A "bipartisan group of experts in economics, public health, technology and ethics" based out of Harvard's Center for Ethics has put out a plan](https://ethics.harvard.edu/covid-19-response)
- * [AEI, a conservative leaning think tank, has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
- * [Center for American Progress, liberal leaning think tank, also has their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
+ * [AEI, a conservative-leaning think tank, has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
+ * [Center for American Progress, a liberal-leaning think tank, also has their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
+ 
+There's several useful resources for thinking about what your workplace would need to do to be safer as well (whether it's an office, school, construction site, etc.:
+ * [Recommendations by workplace](https://www.backtoworksafely.org) from a group of occupational safety experts
+ * [A site that's more geared towards local governments](https://covidlocal.org) but also provides useful reopening guidelines and gives you a sense of what we should be looking for from local and state leaders 
 
 ## What's on Twitter?
 
@@ -42,7 +46,7 @@ Here's a (very abbreviated) list of epidemiology and public health folks I've fo
  * [Carl Bergstrom](https://twitter.com/CT_Bergstrom) is a professor of biology at University of Washington
  * [Natalie Dean](https://twitter.com/nataliexdean) is a professor of biostats at University of Florida
  
-[Ed Yong](https://twitter.com/edyong209) is science writer at the Atlantic who put togther [a thread of longer-form news articles on covid](https://twitter.com/edyong209/status/1256303440243933184?s=21) that is worth reading through as well.
+[Ed Yong](https://twitter.com/edyong209) is a science writer at the Atlantic who put togther [a thread of longer-form news articles on covid](https://twitter.com/edyong209/status/1256303440243933184?s=21) that is worth reading through as well.
 
 
 
