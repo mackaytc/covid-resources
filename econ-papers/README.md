@@ -61,7 +61,7 @@ _Is the Cure Worse than the Problem Itself? Immediate Labor Market Effects of CO
 
 _Which Workers Bear the Burden of Social Distancing Policies?_ by Simon Mongey, Laura Pilossoph, Alex Weinberg (NBER Working Paper 27085)
 
-> What are the characteristics of workers in jobs likely to be initially affected by broad social distancing and later by narrower policy tailored to jobs with low risk of disease transmission? We use O NET to construct a measure of the likelihood that jobs can be conducted from home (a variant of Dingel and Neiman, 2020) and a measure of low physical proximity to others at work. We validate the measures by showing how they relate to similar measures constructed using time use data from ATUS. Our main finding is that workers in low-work-from-home or high-physical- proximity jobs are more economically vulnerable across various measures constructed from the CPS and PSID: they are less educated, of lower income, have fewer liquid assets relative to income, and are more likely renters. We further substantiate the measures with behavior during the epidemic. First, we show that MSAs with less pre-virus employment in work-from-home jobs experienced smaller declines in the incidence of `staying-at-home', as measured using SafeGraph cell phone data. Second, we show that both occupations and types of workers predicted to be employed in low work-from-home jobs experienced greater declines in employment according to the March 2020 CPS. For example, non-college educated workers experienced a 4ppt larger decline in employment relative to those with a college degree.
+> What are the characteristics of workers in jobs likely to be initially affected by broad social distancing and later by narrower policy tailored to jobs with low risk of disease transmission? We use O NET to construct a measure of the likelihood that jobs can be conducted from home (a variant of Dingel and Neiman, 2020) and a measure of low physical proximity to others at work. We validate the measures by showing how they relate to similar measures constructed using time use data from ATUS. Our main finding is that workers in low-work-from-home or high-physical- proximity jobs are more economically vulnerable across various measures constructed from the CPS and PSID: they are less educated, of lower income, have fewer liquid assets relative to income, and are more likely renters. We further substantiate the measures with behavior during the epidemic. First, we show that MSAs with less pre-virus employment in work-from-home jobs experienced smaller declines in the incidence of "staying-at-home", as measured using SafeGraph cell phone data. Second, we show that both occupations and types of workers predicted to be employed in low work-from-home jobs experienced greater declines in employment according to the March 2020 CPS. For example, non-college educated workers experienced a 4ppt larger decline in employment relative to those with a college degree.
 
 _Labor Demand in the Time of COVID-19: Evidence from Vacancy Postings and UI Claims_ by Lisa B. Kahn, Fabian Lange, David G. Wiczer (NBER Working Paper 27061)
 
@@ -80,6 +80,26 @@ _The Impact of COVID-19 on Gender Equality_ by Titan M. Alon, Matthias Doepke, J
 >The economic downturn caused by the current COVID-19 outbreak has substantial implications for gender equality, both during the downturn and the subsequent recovery. Compared to “regular” recessions, which affect men’s employment more severely than women’s employment, the employment drop related to social distancing measures has a large impact on sectors with high female employment shares. In addition, closures of schools and daycare centers have massively increased child care needs, which has a particularly large impact on working mothers. The effects of the crisis on working mothers are likely to be persistent, due to high returns to experience in the labor market. Beyond the immediate crisis, there are opposing forces which may ultimately promote gender equality in the labor market. First, businesses are rapidly adopting flexible work arrangements, which are likely to persist. Second, there are also many fathers who now have to take primary responsibility for child care, which may erode social norms that currently lead to a lopsided distribution of the division of labor in house work and child care.
 
 ### Social Distancing and Other Policy Responses
+
+_Paying It Backward and Forward: Expanding Access to Convalescent Plasma Therapy Through Market Design_ by Scott Duke Kominers, Parag A. Pathak, Tayfun Sönmez, M. Utku Ünver (NBER Working Paper 27143)
+
+>
+
+_Effect of a Federal Paid Sick Leave Mandate on Working and Staying at Home: Evidence from Cellular Device Data_ by Martin Andersen, Johanna Catherine Maclean, Michael F. Pesko, Kosali I. Simon (NBER Working Paper 27138)
+
+>
+
+_Covid-19, Shelter-In Place Strategies and Tipping_ by Zhihan Cui, Geoffrey Heal, Howard Kunreuther (NBER Working Paper 27124)
+
+>
+
+_Monetary and Fiscal Policies in Times of Large Debt: Unity is Strength_ by Francesco Bianchi, Renato Faccini, Leonardo Melosi (NBER Working Paper 27112)
+
+>
+
+_The Macroeconomics of Testing and Quarantining_ by Martin S. Eichenbaum, Sergio Rebelo, Mathias Trabandt (NBER Working Paper 27104)
+
+>
 
 _Did the Paycheck Protection Program Hit the Target?_ by João Granja, Christos Makridis, Constantine Yannelis, Eric Zwick (NBER Working Paper 27095)
 
