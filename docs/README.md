@@ -19,32 +19,32 @@ ___
 #### _What's the point of lockdown? Why am I still stuck at home all day?_
 
 If you feel uncertainty about what’s been going on and why, you’re not alone!
- * When we first locked down, everyone talked about “flattening the curve” a lot
- * That meant trying to prevent cases from growing so fast that hospitals were overwhelmed... which was a (very) important goal and first step
+ * When we first locked down, everyone talked about “flattening the curve” a lot.
+ * That meant trying to prevent cases from growing so fast that hospitals were overwhelmed... which was a (very) important goal and first step.
  * But it’s just a first step!
 
-In other countries, governments used the time bought by locking down to massively expand their ability to (1) test for coronavirus and (2) trace the spread of cases throughout local communities and contact folks who might’ve been exposed
- * Unfortunately, we haven’t done that on a sufficient scale in the US 
- * This means that we’re stuck in a kind of “no man’s land” where we’ve slowed down the spread of the virus (good) but haven’t built up the capacity to start going out more (bad)
+In other countries, governments used the time bought by locking down to massively expand their ability to (1) test for coronavirus and (2) trace the spread of cases throughout local communities and contact folks who might’ve been exposed.
+ * Unfortunately, we haven’t done that on a sufficient scale in the US.
+ * This means that we’re stuck in a kind of “no man’s land” where we’ve slowed down the spread of the virus (good) but haven’t built up the capacity to start going out more (bad).
 
 ####  _Aren’t we doing a lot of testing? How much more do we really need to do?!_
 
-When lockdown first started, public health officials recommended only trying to get tested if you were experiencing symptoms of virus. But that was a _short term _ response to how few tests we had at the time. 
+When lockdown first started, public health officials recommended only trying to get tested if you were experiencing symptoms of virus. But that was a _short term_ response to how few tests we had at the time. 
  
- * Ideally, we should have enough tests that everyone in the US can be tested regularly
- * At a minimum, we should all be able to get a test relatively quickly, regardless of symptoms or health
+ * Ideally, we should have enough tests that everyone in the US can be tested regularly.
+ * At a minimum, we should all be able to get a test relatively quickly, regardless of symptoms or health.
  
  Why do tests matter so much? Can’t you test negative one day then get infected the next? 
- * _Widespread testing plays the same role for communities as smoke detectors play in your home_
- * Without a smoke detector, if a fire starts and you’re in another room, sleeping, etc. that fire has time to grow before you to notice it. With a smoke detector, the minute there’s a problem, you’re alerted and you have time to respond
- * In the same way, without widespread testing, lots of people have to get sick in a community before folks start showing up in local hospitals in appreciable amounts and public health officials realize there’s an issue
- * Testing lets communities contain the spread of coronavirus _before_ outbreaks get so bad that we have to go back into lockdown to slow them down
+ * _Widespread testing plays the same role for communities as smoke detectors play in your home._
+ * Without a smoke detector, if a fire starts and you’re in another room, sleeping, etc. that fire has time to grow before you to notice it. With a smoke detector, the minute there’s a problem, you’re alerted and you have time to respond.
+ * In the same way, without widespread testing, lots of people in a community can get infected before folks start showing up in local hospitals in appreciable amounts and public health officials realize there’s an issue.
+ * Testing lets communities contain the spread of coronavirus _before_ outbreaks get so bad that we have to go into lockdown to slow them down.
 
 #### _There’s lots of discussion now about reopening our economy. Don’t we have to start getting back to normal at some point?_
 
-The point of this guide isn’t to get bogged down in broader policy questions, but it’s important to remember that the vast majority of all public health officials, economists, and business leaders agree that _developing the tools required to contain the virus is the only way to get back on track economically _
- * You might be willing to go to a restaurant if it reopened, but would you go to a movie theater? A concert? Everyone’s risk tolerance is different, but we’re all going to be a bit less likely to go out while the virus is still spreading
- * Ignoring the virus isn’t a sustainable option because as long as it’s spreading, demand for everything from air travel and hotels to new cars and everything in between will be depressed
+The point of this guide isn’t to get bogged down in broader policy debates, but it’s important to remember that the vast majority of public health officials, economists, and business leaders agree that _developing the tools required to contain the virus is the only way to get back on track economically._
+ * You might be willing to go to a restaurant if it reopened, but would you go to a movie theater? A concert? Everyone’s risk tolerance is different, but we’re all going to be a bit less likely to go out while the virus is still spreading.
+ * Ignoring the virus isn’t a sustainable option because as long as it’s spreading, demand for everything from air travel and hotels to new cars and everything in between will be depressed.
 
 #### _What activities can I do safely? What activities are riskier?_
 
@@ -57,14 +57,14 @@ I definitely don’t claim to be an expert! I’ve tried to include links for re
 
 ___
 
-## What Should We Be Doing as a Country?
+## Plans for Dealing with the Pandemic and Reopening the Economy
 
 There have been several widely-discussed proposals for how we should think about dealing with the covid pandemic and gradually reopening the economy. If you want a quick summary of these proposals, you can read [German Lopez writing for Vox about them here](https://www.vox.com/2020/4/14/21218074/coronavirus-plans-social-distancing-end-reopen-economy). While each specific plan varies a bit, every plan shares common themes including the importance of [_readily-available testing_](https://www.heart.org/en/news/2020/04/02/covid-19-science-why-testing-is-so-important) and [_contact tracing_](https://www.vox.com/2020/5/4/21242825/coronavirus-covid-19-contact-tracing-jobs-apps).
 
 You can read the reports themselves here:
- * [A "bipartisan group of experts in economics, public health, technology and ethics" based out of Harvard's Center for Ethics has put out a plan](https://ethics.harvard.edu/covid-19-response)
- * [AEI, a conservative-leaning think tank, has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
- * [Center for American Progress, a liberal-leaning think tank, also has their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
+ * A "bipartisan group of experts in economics, public health, technology and ethics" based out of Harvard's Center for Ethics has [put out a plan](https://ethics.harvard.edu/covid-19-response)
+ * AEI, a conservative-leaning think tank, [has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
+ * Center for American Progress, a liberal-leaning think tank, also has [their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
  
 There's several useful resources for thinking about what your workplace would need to do to be safer as well (whether it's an office, school, construction site, etc.):
  * [Recommendations by workplace](https://www.backtoworksafely.org) from a group of occupational safety experts
