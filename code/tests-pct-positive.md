@@ -32,14 +32,14 @@ describe(data$pct.positive)
 ```
 
     ##    vars  n  mean   sd median trimmed  mad min  max range skew kurtosis   se
-    ## X1    1 51 11.92 8.28    9.3   11.02 6.67 1.5 45.3  43.8 1.48     3.24 1.16
+    ## X1    1 51 10.56 6.61    8.3   10.02 6.08 1.2 30.5  29.3  0.8      0.1 0.93
 
 ``` r
 describe(data$tests.per.capita)
 ```
 
-    ##    vars  n mean   sd median trimmed  mad  min  max range skew kurtosis se
-    ## X1    1 51 0.03 0.01   0.02    0.02 0.01 0.01 0.08  0.07 1.87     3.95  0
+    ##    vars  n mean   sd median trimmed  mad  min max range skew kurtosis se
+    ## X1    1 51 0.04 0.02   0.03    0.03 0.01 0.02 0.1  0.08 1.75      3.6  0
 
 ``` r
 # Table sorted in descending value of positive percentage
@@ -50,16 +50,16 @@ print(data)
     ## # A tibble: 51 x 7
     ##    state.name fips  pop.2019 positive.tests total.test.resu~ pct.positive
     ##    <chr>      <chr>    <dbl>          <dbl>            <dbl>        <dbl>
-    ##  1 South Car~ 45     5148714           7142            73442          9.7
-    ##  2 Virginia   51     8535519          22342           129945         17.2
-    ##  3 Ohio       39    11689100          23016           184316         12.5
-    ##  4 Colorado   08     5758736          18801            94536         19.9
-    ##  5 Kansas     20     2913314           6501            47708         13.6
-    ##  6 Arizona    04     7278717          10526           119907          8.8
-    ##  7 Texas      48    28995881          36609           477118          7.7
-    ##  8 North Car~ 37    10488084          13868           178613          7.8
-    ##  9 Oregon     41     4217737           3068            72693          4.2
-    ## 10 Nevada     32     3080156           5884            53344         11  
+    ##  1 Maine      23     1344212           1648            23740          6.9
+    ##  2 Idaho      16     1787065           2389            35688          6.7
+    ##  3 Arizona    04     7278717          13631           146788          9.3
+    ##  4 Kansas     20     2913314           7886            61592         12.8
+    ##  5 Ohio       39    11689100          27474           246702         11.1
+    ##  6 Colorado   08     5758736          21232           121840         17.4
+    ##  7 South Car~ 45     5148714           8407           109616          7.7
+    ##  8 Virginia   51     8535519          29683           185568         16  
+    ##  9 Oregon     41     4217737           3612            92199          3.9
+    ## 10 Missouri   29     6137428          10675           139340          7.7
     ## # ... with 41 more rows, and 1 more variable: tests.per.capita <dbl>
 
 ``` r
