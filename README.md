@@ -17,7 +17,7 @@ Folders included in this repo (click for links):
  
 Stuff I check regularly:
  * [NYT data + case graphs](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
- * [Youyang Guo projections](covid19-projections.com)
- * (rt.live)
+ * [Youyang Guo projections](https://covid19-projections.com/)
+ * [rt.live](https://rt.live/)
  
  
