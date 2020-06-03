@@ -1,6 +1,6 @@
 ---
 title: "Positive Covid-19 Test Percentages by State"
-date: "5/7/2020"
+date: "6/3/2020"
 output: github_document
 ---
 
