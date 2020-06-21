@@ -16,7 +16,7 @@ ___
 
 ##  Frequently Asked Questions
 
-#### _What's the point of lockdown? Why am I still stuck at home all day?_
+#### _Why am I still stuck sitting at home all day?_
 
 If you feel uncertainty about what’s been going on and why, you’re not alone!
  * When we first locked down, everyone talked about “flattening the curve” a lot.
@@ -72,7 +72,9 @@ There's several useful resources for thinking about what your workplace would ne
 
 ## Thinking about the Future
 
-_How many new cases will there be? How many tests will we be performing?_ We'd all love to know the answers to these questions. Coming up with good predictions, however, is incredibly difficult and our best guess answers to them can change dramatically as we get new information. Why is there so much uncertainty?
+#### _How many new cases will there be? How many tests will we be performing?_ 
+
+We'd all love to know the answers to these questions. Coming up with good predictions, however, is incredibly difficult and our best guess answers to them can change dramatically as we get new information. Why is there so much uncertainty?
 
 Forecasting something like a pandemic is incredibly challenging. Gathering data is difficult, the statistics can be complicated, and as [Zeynep Tufekci writes for The Atlantic:](https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/)
 
