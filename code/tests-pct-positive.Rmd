@@ -1,6 +1,6 @@
 ---
 title: "Positive Covid-19 Test Percentages by State"
-date: "6/3/2020"
+date: "6/21/2020"
 output: github_document
 ---
 
@@ -76,7 +76,7 @@ describe(data$tests.per.capita)
 
 # Table sorted in descending value of positive percentage
 
-print(data)
+print(arrange(data, -pct.positive))
 
 # Save .csv version of table 
 
