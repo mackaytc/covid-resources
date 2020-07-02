@@ -3,7 +3,7 @@
 There's three primary sources of economics working papers on covid-related topics (the first two of which are well-organized, so I've just included links to those sites): 
  * [NBER WP series publications](https://nber.org/wp_covid19.html) are organized broadly by topic 
  * [CEPR's Covid Economics](https://cepr.org/content/covid-economics-vetted-and-real-time-papers-0) series has regularly released issues which recieved abbreviated peer-review
- * [IZA](https://covid-19.iza.org/) sends out regular emails with Covid papers ... but their website isn't very user-friendly. I've copied abstracts below + PDF's are saved to this [folder](https://github.com/mackaytc/covid-resources/tree/master/econ-papers/iza-papers). 
+ * [IZA](https://covid-19.iza.org/) sends out regular emails with Covid papers ... but their website isn't very user-friendly. I've copied abstracts below + corresponding PDF's for all papers are saved to this [folder](https://github.com/mackaytc/covid-resources/tree/master/econ-papers/iza-papers). 
  
 ## IZA Abstracts
 
