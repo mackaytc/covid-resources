@@ -36,15 +36,15 @@ data <- data %>% mutate(pct.positive = (positive.tests / total.test.results)*100
 describe(data$pct.positive)
 ```
 
-    ##    vars  n mean   sd median trimmed  mad min max range skew kurtosis   se
-    ## X1    1 51 7.35 3.63      7    7.34 4.74 0.9  14  13.1 0.09       -1 0.51
+    ##    vars  n mean   sd median trimmed  mad min  max range  skew kurtosis   se
+    ## X1    1 51 7.22 3.28    6.9    7.26 3.85 0.9 15.3  14.4 -0.04    -0.53 0.46
 
 ``` r
 describe(data$tests.per.capita)
 ```
 
-    ##    vars  n mean   sd median trimmed  mad  min max range skew kurtosis se
-    ## X1    1 51 0.08 0.03   0.08    0.08 0.03 0.04 0.2  0.16 1.45     2.51  0
+    ##    vars  n mean   sd median trimmed  mad  min  max range skew kurtosis   se
+    ## X1    1 51  0.1 0.04   0.09     0.1 0.03 0.05 0.23  0.18  1.3     1.73 0.01
 
 ``` r
 # Table sorted in descending value of positive percentage
@@ -55,16 +55,16 @@ print(arrange(data, -pct.positive))
     ## # A tibble: 51 x 7
     ##    state.name fips  pop.2019 positive.tests total.test.resu~ pct.positive
     ##    <chr>      <chr>    <dbl>          <dbl>            <dbl>        <dbl>
-    ##  1 Massachus~ 25     6892503         106936           764937         14  
-    ##  2 New Jersey 34     8882190         168834          1218873         13.9
-    ##  3 Maryland   24     6045680          63956           462280         13.8
-    ##  4 District ~ 11      705749           9984            77953         12.8
-    ##  5 Pennsylva~ 42    12801989          81266           647727         12.5
-    ##  6 Arizona    04     7278717          49798           405280         12.3
-    ##  7 Connectic~ 09     3565287          45715           391655         11.7
-    ##  8 Nebraska   31     1934408          17591           151854         11.6
-    ##  9 Delaware   10      973764          10681            92416         11.6
-    ## 10 New York   36    19453561         387272          3327793         11.6
+    ##  1 Arizona    04     7278717          84092           549596         15.3
+    ##  2 Massachus~ 25     6892503         109143           858435         12.7
+    ##  3 Maryland   24     6045680          67918           542604         12.5
+    ##  4 New Jersey 34     8882190         171928          1442937         11.9
+    ##  5 Pennsylva~ 42    12801989          87242           776804         11.2
+    ##  6 Nebraska   31     1934408          19177           180608         10.6
+    ##  7 District ~ 11      705749          10365           100035         10.4
+    ##  8 Delaware   10      973764          11510           111384         10.3
+    ##  9 Colorado   08     5758736          32715           327503         10  
+    ## 10 Georgia    13    10617423          84237           855038          9.9
     ## # ... with 41 more rows, and 1 more variable: tests.per.capita <dbl>
 
 ``` r
