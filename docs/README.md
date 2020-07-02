@@ -18,10 +18,7 @@ ___
 
 #### _Why am I still stuck sitting at home all day?_
 
-If you feel uncertainty about what’s been going on and why, you’re not alone!
- * When we first locked down, everyone talked about “flattening the curve” a lot.
- * That meant trying to prevent cases from growing so fast that hospitals were overwhelmed... which was a (very) important goal and first step.
- * But it’s just a first step!
+If you feel uncertainty about what’s been going on and why, you’re not alone! When we first locked down, everyone talked about “flattening the curve” a lot. That meant trying to prevent cases from growing so fast that hospitals were overwhelmed... which was a (very) important goal and first step. But it’s just a first step!
 
 In other countries, governments used the time bought by locking down to massively expand their ability to (1) test for coronavirus and (2) trace the spread of cases throughout local communities and contact folks who might’ve been exposed.
  * Unfortunately, we haven’t done that on a sufficient scale in the US.
