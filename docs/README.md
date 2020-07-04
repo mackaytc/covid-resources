@@ -6,15 +6,17 @@ This page offers a brief overview of resources to help you learn more about covi
 
 Here's a "highlight reel" of the resources I've found most useful for trying to understand the covid-19 pandemic. Definitely start by checking out the following:
  * ___If you want a single source to go to for daily news and updates on covid,  [the Covid Daily News podcast is your best option](https://omny.fm/shows/the-coronavirus-daily-podcast-the-most-important-n)___
-    *  This podcast provides an analytical perspective on covid news, and emphasizes comparisons in outcomes and policy responses across countries. If you're just getting started listening, scroll back in the feed and pick up on topics that are of interest (more recent episodes assume an increasing level of familiarity with the subject matter).
+    *  This podcast provides an analytical perspective on covid news. If you're just getting started listening, it might be helpful to scroll back in the feed and pick up on topics that are of interest (more recent episodes assume an increasing level of familiarity with the subject matter).
     * Full disclosure, neither host is a public health expert but that's not really the "niche" they're trying to fill. Instead, they aggregate news from a range of well-vetted sources and give you key takeaways.
- * If you're looking for up-to-date information on the number of cases / fatalities / etc. in the US as a whole and for individual states, ___[this NYT page provides a ton of regularly-updated graphs and statistics](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)___
-    * The graphs by state organized by states where cases are increasing / decreasing over time are particularly helpful
-  * The _[COVID Tracking Project](https://covidtracking.com/) is the best resource available for data on the number of tests performed_ as well as things like positivity rates, hospitalizations, etc.
- * ___If you're looking for projections and trying see what experts think the next few months will look like, [538 is tracking the projections from several of the most widely-cited forecasts of the covid pandemic](https://projects.fivethirtyeight.com/covid-forecasts)___
+ * If you're trying to track the number of cases / deaths / etc. in the US as a whole and for individual states, __[the NYT provides regularly-updated graphs and data](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)__
+    * The maps of hotspots are particularly helpful
+  * The __[COVID Tracking Project](https://covidtracking.com/) is the best resource available for data on the number of tests performed__ as well as things like positivity rates, hospitalizations, etc.
+ * If you're looking for projections and trying see what experts think the next few months will look like, __[538 is tracking the projections from several of the most widely-cited forecasts of the covid pandemic](https://projects.fivethirtyeight.com/covid-forecasts)__
 ___
 
-## What Activities Can I Do Safely? What Activities are Riskier?
+## What Activities Can I Do Safely?
+
+Short answer - things outside are a lot safer things inside and if you're indoors _wear a mask_. When assessing whether or not to do something, I try to think about balancing how risky that activity is with how essential it is. That's what the table below lays out in a bit more detail. 
 
 ![A simple framework for thinking about the risks of various activities](https://github.com/mackaytc/covid-resources/raw/master/docs/covid-risk-grid.png)
 
@@ -28,14 +30,11 @@ If you feel uncertainty about what’s been going on and why, you’re not alone
 
 In other countries, governments used the time bought by locking down to massively expand their ability to (1) test for coronavirus and (2) trace the spread of cases throughout local communities and contact folks who might’ve been exposed.
  * Unfortunately, we haven’t done that on a sufficient scale in the US.
- * This means that we’re stuck in a kind of “no man’s land” where we’ve slowed down the spread of the virus (good) but haven’t built up the capacity to start going out more (bad).
+ * This means that we’re stuck in a kind of “no man’s land” where in some parts of the country we’ve slowed down the spread of the virus (good) but haven’t built up the capacity to start going out more (bad). 
 
 ####  _Aren’t we doing a lot of testing? How much more do we really need to do?!_
 
-When lockdown first started, public health officials recommended only trying to get tested if you were experiencing symptoms of virus. But that was a _short term_ response to how few tests we had at the time. 
- 
- * Ideally, we should have enough tests that everyone in the US can be tested regularly.
- * At a minimum, we should all be able to get a test relatively quickly, regardless of symptoms or health.
+When lockdown first started, public health officials recommended only trying to get tested if you were experiencing symptoms of virus. But that was a _short term_ response to how few tests we had at the time. Ideally, we should have enough tests that everyone in the US can be tested regularly. At a minimum, we should all be able to get a test relatively quickly, regardless of symptoms or health. Access to that level of testing would have given us an earlier warning about the second wave that developed in places like Florida and Arizona.
  
  Why do tests matter so much? Can’t you test negative one day then get infected the next? 
  * _Widespread testing plays the same role for communities as smoke detectors play in your home._ Without a smoke detector, if a fire starts and you’re in another room, sleeping, etc. that fire has time to grow before you to notice it. With a smoke detector, the minute there’s a problem, you’re alerted and you have time to respond.
