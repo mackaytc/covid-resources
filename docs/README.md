@@ -36,8 +36,8 @@ In other countries, governments used the time bought by locking down to massivel
 
 When lockdown first started, public health officials recommended only trying to get tested if you were experiencing symptoms of virus. But that was a _short term_ response to how few tests we had at the time. Ideally, we should have enough tests that everyone in the US can be tested regularly. At a minimum, we should all be able to get a test relatively quickly, regardless of current symptoms, if we were potentially exposed to the virus. Access to that level of testing would have given us an earlier warning about the second wave that's developed in places like Florida and Arizona.
  
- Why do tests matter so much? Can’t you test negative one day then get infected the next? 
- * _Widespread testing plays the same role for communities as smoke detectors play in your home._ Without a smoke detector, if a fire starts and you’re in another room, sleeping, etc. that fire has time to grow before you to notice it. With a smoke detector, the minute there’s a problem, you’re alerted and you have time to respond.
+ Why do tests matter so much? Can’t you test negative one day then get infected the next? _Widespread testing plays the same role for communities as smoke detectors play in your home._ 
+ * Without a smoke detector, if a fire starts and you’re in another room, sleeping, etc. that fire has time to grow before you to notice it. With a smoke detector, the minute there’s a problem, you’re alerted and you have time to respond.
  * In the same way, without widespread testing, lots of people in a community can get infected before folks start showing up in local hospitals in appreciable amounts and public health officials realize there’s an issue.
  * Testing lets communities contain the spread of coronavirus _before_ outbreaks get so widespread that we have to go into lockdown to slow them down.
 
