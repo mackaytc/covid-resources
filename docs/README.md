@@ -10,7 +10,7 @@ Here's a "highlight reel" of the resources I've found most useful for trying to 
     * Full disclosure, neither host is a public health expert but that's not really the "niche" they're trying to fill. Instead, they aggregate news from a range of well-vetted sources and give you key takeaways.
  * If you're trying to track the number of cases / deaths / etc. in the US as a whole and for individual states, __[the NYT provides regularly-updated graphs and data](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)__
     * The maps of hotspots are particularly helpful
-  * The __[COVID Tracking Project](https://covidtracking.com/) is the best resource available for data on the number of tests performed__ as well as things like positivity rates, hospitalizations, etc.
+  * The __[COVID Tracking Project is the best resource available for data on the number of tests performed](https://covidtracking.com/)__ as well as things like positivity rates, hospitalizations, etc.
  * If you're looking for projections and trying see what experts think the next few months will look like, __[538 is tracking the projections from several of the most widely-cited forecasts of the covid pandemic](https://projects.fivethirtyeight.com/covid-forecasts)__
 ___
 
