@@ -18,7 +18,7 @@ ___
 
 ## What Activities Can I Do Safely?
 
-Short answer - things outside are a lot safer things inside and if you're indoors _wear a mask_. When assessing whether or not to do something, I try to think about balancing how risky that activity is with how essential it is. That's what the table below lays out in a bit more detail. 
+Short answer - doing activities outside is a _lot_ safer than doing things inside. If you do have to spend time indoors with people you don't live with, _wear a mask_. When assessing whether or not to do something, I try to think about balancing how risky that activity is with how essential it is. That's what the table below lays out in a bit more detail. 
 
 ![A simple framework for thinking about the risks of various activities](https://github.com/mackaytc/covid-resources/raw/master/docs/covid-risk-grid.png)
 
