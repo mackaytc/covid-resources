@@ -10,6 +10,7 @@ Here's a "highlight reel" of the resources I've found most useful for trying to 
     * Full disclosure, neither host is a public health expert but that's not really the "niche" they're trying to fill. Instead, they aggregate news from a range of well-vetted sources and give you key takeaways.
  * If you're looking for up-to-date information on the number of cases / fatalities / etc. in the US as a whole and for individual states, ___[this NYT page provides a ton of regularly-updated graphs and statistics](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)___
     * The graphs by state organized by states where cases are increasing / decreasing over time are particularly helpful
+  * The _[COVID Tracking Project](https://covidtracking.com/) is the best resource available for data on the number of tests performed_ as well as things like positivity rates, hospitalizations, etc.
  * ___If you're looking for projections and trying see what experts think the next few months will look like, [538 is tracking the projections from several of the most widely-cited forecasts of the covid pandemic](https://projects.fivethirtyeight.com/covid-forecasts)___
 ___
 
@@ -47,28 +48,15 @@ The point of this guide isn’t to get bogged down in broader policy debates, bu
  * You might be willing to go to a restaurant if it reopened, but would you go to a movie theater? A concert? Everyone’s risk tolerance is different, but we’re all going to be a bit less likely to go out while the virus is still spreading.
  * Ignoring the virus isn’t a sustainable option because as long as it’s spreading, demand for everything from air travel and hotels to new cars and everything in between will be depressed.
  
- #### _Why the heck should I listen to what you’re saying?!_
+#### _Why the heck should I listen to what you’re saying?!_
 
 I definitely don’t claim to be an expert! I’ve tried to include links for resources that discuss everything here in greater detail and you should definitely check those out. My only goal here is to relay information in a way that might be easier to get through than the original sources. 
 
 ___
 
-## Plans for Dealing with the Pandemic and Reopening the Economy
+## What Will the Future Look Like?
 
-There have been several widely-discussed proposals for how we should think about dealing with the covid pandemic and gradually reopening the economy. If you want a quick summary of these proposals, you can read [German Lopez writing for Vox about them here](https://www.vox.com/2020/4/14/21218074/coronavirus-plans-social-distancing-end-reopen-economy). While each specific plan varies a bit, every plan shares common themes including the importance of [_readily-available testing_](https://www.heart.org/en/news/2020/04/02/covid-19-science-why-testing-is-so-important) and [_contact tracing_](https://www.vox.com/2020/5/4/21242825/coronavirus-covid-19-contact-tracing-jobs-apps).
-
-You can read the reports themselves here:
- * A "bipartisan group of experts in economics, public health, technology and ethics" based out of Harvard's Center for Ethics has [put out a plan](https://ethics.harvard.edu/covid-19-response)
- * AEI, a conservative-leaning think tank, [has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
- * Center for American Progress, a liberal-leaning think tank, also has [their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
- 
-There's several useful resources for thinking about what your workplace would need to do to be safer as well (whether it's an office, school, construction site, etc.):
- * [Recommendations by workplace](https://www.backtoworksafely.org) from a group of occupational safety experts
- * [This site is more geared towards local governments](https://covidlocal.org) but provides useful general reopening guidelines and gives you a sense of what we should be looking for from local and state leaders 
-
-## Thinking about the Future
-
-#### _How many new cases will there be? How many tests will we be performing?_ 
+#### _Folks have talked about a "first wave" and now a second wave of cases. How many new cases will there be next month? By the end of the year? How many tests should we be performing?_ 
 
 We'd all love to know the answers to these questions. Coming up with good predictions, however, is incredibly difficult and our best guess answers to them can change dramatically as we get new information. Why is there so much uncertainty?
 
@@ -82,15 +70,16 @@ What's the point of trying to forecast things when there's so much uncertainty?
 
 If you want a detailed discussion of the many challenges involved in forecasting this pandemic, [538 has a detailed discussion (with lots of cool visuals)](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/). 
 
-## What's on Twitter?
+#### _Reopening has been confusing - things are so different from one city to another. Does anyone have a comprehensive plan for reopening?_ 
 
-Here's a (very abbreviated) list of epidemiology and public health folks I've found especially helpful to follow:
- * [Trevor Bedford](https://twitter.com/trvrb) is an epidemiologist at the Fred Hutchins Cancer Research Center
- * [Carl Bergstrom](https://twitter.com/CT_Bergstrom) is a professor of biology at University of Washington
- * [Natalie Dean](https://twitter.com/nataliexdean) is a professor of biostats at University of Florida
+There have been several widely-discussed proposals for how we should think about dealing with the covid pandemic and gradually reopening the economy. If you want a quick summary of these proposals, you can read [German Lopez writing for Vox about them here](https://www.vox.com/2020/4/14/21218074/coronavirus-plans-social-distancing-end-reopen-economy). While each specific plan varies a bit, every plan shares common themes including the importance of [_readily-available testing_](https://www.heart.org/en/news/2020/04/02/covid-19-science-why-testing-is-so-important) and [_contact tracing_](https://www.vox.com/2020/5/4/21242825/coronavirus-covid-19-contact-tracing-jobs-apps).
+
+You can read the reports themselves here:
+ * A "bipartisan group of experts in economics, public health, technology and ethics" based out of Harvard's Center for Ethics has [put out a plan](https://ethics.harvard.edu/covid-19-response)
+ * AEI, a conservative-leaning think tank, [has a plan of their own](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/)
+ * Center for American Progress, a liberal-leaning think tank, also has [their own plan](https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/)
  
-[Ed Yong](https://twitter.com/edyong209) is a science writer at the Atlantic who put togther [a thread of longer-form news articles on covid](https://twitter.com/edyong209/status/1256303440243933184?s=21) that is worth reading through as well.
-
-
-
+There's several useful resources for thinking about what your workplace would need to do to be safer as well (whether it's an office, school, construction site, etc.):
+ * [Recommendations by workplace](https://www.backtoworksafely.org) from a group of occupational safety experts
+ * [This site is more geared towards local governments](https://covidlocal.org) but provides useful general reopening guidelines and gives you a sense of what we should be looking for from local and state leaders 
 
