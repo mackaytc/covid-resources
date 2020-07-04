@@ -56,7 +56,7 @@ ___
 
 ## What Will the Future Look Like?
 
-#### _Folks have talked about a "first wave" and now a second wave of cases. How many new cases will there be next month? By the end of the year? How many tests should we be performing?_ 
+#### _Folks have talked about a first wave and now a second wave of cases. How many new cases will there be next month? By the end of the year? How many tests should we be performing?_ 
 
 We'd all love to know the answers to these questions. Coming up with good predictions, however, is incredibly difficult and our best guess answers to them can change dramatically as we get new information. Why is there so much uncertainty?
 
