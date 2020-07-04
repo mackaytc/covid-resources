@@ -16,6 +16,10 @@ ___
 
 ##  Frequently Asked Questions
 
+#### _Why the heck should I listen to what you’re saying?!_
+
+I definitely don’t claim to be an expert! I’ve tried to include links for resources that discuss everything here in greater detail and you should definitely check those out. My only goal here is to relay information in a way that might be easier to get through than the original sources. 
+
 #### _Why am I still stuck sitting at home all day?_
 
 If you feel uncertainty about what’s been going on and why, you’re not alone! When we first locked down, everyone talked about “flattening the curve” a lot. That meant trying to prevent cases from growing so fast that hospitals were overwhelmed... which was a (very) important goal and first step. But it’s just a first step!
@@ -44,13 +48,7 @@ The point of this guide isn’t to get bogged down in broader policy debates, bu
 
 #### _What activities can I do safely? What activities are riskier?_
 
-Most evidence suggests that the riskiest scenarios are those that place you in sustained, close contact indoors with people outside of your immediate household
-* Being outside doesn’t guarantee you can’t get sick (especially when contact with others is sustained) but it’s a lot safer, so don’t feel bad about going to a local park!
-
-#### _Why the heck should I listen to what you’re saying?!_
-
-I definitely don’t claim to be an expert! I’ve tried to include links for resources that discuss everything here in greater detail and you should definitely check those out. My only goal here is to relay information in a way that might be easier to get through than the original sources. 
-
+![A simple framework for thinking about the risks of various activities](https://github.com/mackaytc/covid-resources/raw/master/docs/covid-risk-grid.png)
 ___
 
 ## Plans for Dealing with the Pandemic and Reopening the Economy
