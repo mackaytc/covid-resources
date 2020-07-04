@@ -13,7 +13,7 @@ Here's a "highlight reel" of the resources I've found most useful for trying to 
  * ___If you're looking for projections and trying see what experts think the next few months will look like, [538 is tracking the projections from several of the most widely-cited forecasts of the covid pandemic](https://projects.fivethirtyeight.com/covid-forecasts)___
 ___
 
-#### _What activities can I do safely? What activities are riskier?_
+## What Activities Can I Do Safely? What Activities are Riskier?
 
 ![A simple framework for thinking about the risks of various activities](https://github.com/mackaytc/covid-resources/raw/master/docs/covid-risk-grid.png)
 
